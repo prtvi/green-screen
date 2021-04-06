@@ -4,9 +4,12 @@
 
 ### python version requires PIL (pillow library) and numpy
 
-foreground (fg.png) and background (bg.png) images added for testing
+Foreground (fg.png) ![Foreground (fg.png)](./fg.png)
+and background (bg.png) ![Background (bg.png)](./bg.png)
+images added for testing.
 
-see output.png for the output achieved
+See output.png for the output achieved
 
-output:
+Output achieved:
+
 ![Output](./output.png)
