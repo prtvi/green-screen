@@ -7,3 +7,6 @@
 foreground (fg.png) and background (bg.png) images added for testing
 
 see output.png for the output achieved
+
+output:
+![Output](./output.png)
