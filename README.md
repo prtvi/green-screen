@@ -1,5 +1,5 @@
 # Green Screen Algorithm 
-The Green Screen Algorithm is the algorithm used to change the background behind an *object* with a background of our choice. This process is widely used in applications where the background needs to be changed. More about the algorithm [here](https://prithviie.github.io/html/projects/green_screen.html).
+The Green Screen Algorithm is the algorithm used to change the background behind an *object* with a background of our choice. This process is widely used in applications where the background needs to be changed. More about the algorithm in the repository's About tab.
 
 
 ## About the Project
