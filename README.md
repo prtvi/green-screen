@@ -31,3 +31,7 @@ During the process, a new image (say _output_) is created. The pixels of the out
 Here is the output achieved with a threshold of 235:
 
 ![Output](images/output.png)
+
+## Other links
+
+Click [here](https://prtvi.github.io/allprojects.html) to check out my other projects
